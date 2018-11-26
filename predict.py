@@ -20,7 +20,7 @@ import numpy as np
 import tag_data
 #import helper
 
-PATH="/home/aman/img_tagging"
+PATH="/mnt/NTFS1/image-tagging"
 
 class TaggingDataset(Dataset):
 
