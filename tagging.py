@@ -13,7 +13,7 @@ import os
 import numpy as np
 import tag_data
 
-PATH="/home/aman/img_tagging"
+PATH="/mnt/NTFS1/image-tagging"
 
 df = tag_data.Tagging(PATH)
 
