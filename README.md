@@ -1,2 +1,2 @@
 # Image-Classifier-With-Multilable-Attributes
-Image Classifier With Multilable Attributes using pytorch renet34 model
+Image Classifier With Multilable Attributes using pytorch renet50 model
